@@ -1,0 +1,13 @@
+/.vs/
+
+/Movies.Application/bin/
+/Movies.Contract/bin/
+/Movies.Domain/bin/
+/Movies.Infrastructure/bin/
+/Movies.Presentation/bin/
+
+/Movies.Application/obj/
+/Movies.Contract/obj/
+/Movies.Domain/obj/
+/Movies.Infrastructure/obj/
+/Movies.Presentation/obj/
